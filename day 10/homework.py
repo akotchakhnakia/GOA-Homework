@@ -10,3 +10,4 @@ for i in range(0,20):
     #luwi ricxvebi 100mde
 for i in range(2,100,2 ):
     print(i)
+    
